@@ -1,0 +1,50 @@
+ [
+
+  {"name": "Kuldeep Yadav",
+    "photo": "https://www.mykhel.com/thumb/247x100x233/cricket/players/9/5399.1512975550.jpg",
+      "dob": "14-dec-1994",
+        "role": "Bowler",
+          "battingStyle": "left handed",
+            "bowlingStyle": "left Arm unorthodox"
+},
+  {
+    "name": "Rohit Sharma",
+    "photo": "https://www.mykhel.com/thumb/247x100x233/cricket/players/6/3516.1512975697.jpg",
+    "dob": "30-apr-1987",
+    "role": "Batter",
+    "battingStyle": "Right handed",
+    "bowlingStyle":"Right Arm off Spin"
+  },
+  {
+    "name": "Ravindar Jadeja",
+    "photo": "https://www.mykhel.com/thumb/247x100x233/cricket/players/6/3856.1512975684.jpg",
+    "dob": "6-dec-198",
+    "role": "All-rounder",
+    "battingStyle": "left handed",
+    "bowlingStyle":"left arm Orthodox"
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "photo": "https://www.mykhel.com/thumb/247x100x233/cricket/players/5/5085.1512975881.jpg",
+    "dob": "23-jul-1990",
+    "role": "Bolwer",
+    "battingStyle": "Right handed",
+    "bowlingStyle":"Right arm leg spin"
+  },
+  {
+    "name": "Shreyas Iyer",
+    "photo":"https://www.mykhel.com/thumb/247x100x233/cricket/players/0/7110.1644640177.jpg",
+    "dob": "6-dec-1994",
+    "role": "Batter",
+    "battingStyle": "right handed",
+    "bowlingStyle":"rigth arm off spin"
+  },
+  {
+    "name": "Ishan Kishan",
+    "photo": "https://www.mykhel.com/thumb/247x100x233/cricket/players/4/8234.1644664515.jpg",
+    "dob": "18-jul-1998",
+    "role": "WicketKeeper",
+    "bowlingStyle":"left arm medium"
+  }
+  
+]
